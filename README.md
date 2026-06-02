@@ -148,7 +148,7 @@ Full-stack document management system with AI-powered document Q&A using Django 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anshuman-utd&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.shion.dev/?username=Anshuman-utd&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
