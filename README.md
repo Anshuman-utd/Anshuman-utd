@@ -131,8 +131,8 @@ Full-stack document management system with AI-powered document Q&A using Django 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anshuman-utd&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-utd&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Anshuman-utd&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anshuman-utd&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
