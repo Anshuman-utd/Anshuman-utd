@@ -112,21 +112,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏡 HomeHunt
-A modern real estate platform built with React, Next.js, Tailwind CSS, and Firebase authentication.
-
-### 🤖 Bodh AI
-AI-powered tutor platform using LangChain, LangGraph, FAISS, Groq API, and RAG pipelines.
-
-### 📚 SkillSync
-Learning & mentorship platform with authentication, CRUD systems, search, filtering, and mentor discovery.
-
-### 📄 AI Document Management Portal
-Full-stack document management system with AI-powered document Q&A using Django + React.
-
----
 
 # 📊 GitHub Stats
 
@@ -145,35 +130,12 @@ Full-stack document management system with AI-powered document Q&A using Django 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.shion.dev/?username=Anshuman-utd&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-utd&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-# 💡 Quote of the Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Anshuman-utd&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
