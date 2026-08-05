@@ -46,9 +46,6 @@ Break.
 Learn.
 Repeat.
 
-$ fuel
-
-☕ Coffee
 ```
 
 </td>
@@ -117,17 +114,18 @@ Every project teaches me something new.
 
 ## 🎮 Beyond the Keyboard
 
-currently_watching:
-  - Welcome To NHK
+```yaml
+📺 Currently Watching:
+  - Welcome to the NHK
 
-all_time_favorites:
-  - Ao Ashi
+❤️ Favorites:
   - Monster
   - Odd Taxi
+  - Ao Ashi
 
-football:
+⚽ Football:
   - Manchester United
-
+```
 
 ## 🤝 Let's Connect
 
