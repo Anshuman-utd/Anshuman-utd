@@ -1,156 +1,162 @@
-<h1 align="center">Hi 👋, I'm Anshuman Mehta</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF4B2B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+GenAI+Engineer;React+%7C+Next.js+%7C+Node.js;LangChain+%7C+RAG+%7C+AI+Agents;Building+Scalable+AI-Powered+Applications" alt="Typing SVG" />
-  </a>
+<img src="assets/gifs/gojo.gif" width="780"/>
+
+<br><br>
+
+# Hey, I'm Anshuman 👋
+
+### Building products that are useful, scalable, and a little bit fun.
+
+<p>
+I enjoy building AI-powered applications, experimenting with new ideas,
+and somehow always ending up with one more side project than I planned.
 </p>
 
----
+</div>
 
-# 💫 About Me
 
-🚀 Full Stack & AI Developer passionate about building scalable AI-powered applications and modern web experiences.
+## ✨ A Little About Me
 
-💡 Interested in:
-- Generative AI
-- AI Agents
-- RAG Systems
-- Full Stack Development
-- Machine Learning
-- NLP
+<table>
+<tr>
 
-🌱 Currently learning:
-- Advanced Backend Development
-- System Design
-- AI Agent Workflows
-- Scalable Architectures
+<td width="60%">
 
-⚡ Building projects with React, Next.js, Django, LangChain, LangGraph, and modern AI stacks.
+```bash
+$ whoami
 
----
+Anshuman Mehta
 
-# 🌐 Connect With Me
+$ role
 
-<p align="left">
-<a href="https://github.com/Anshuman-utd" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+AI Engineer
+Full Stack Developer
+
+$ currently
+
+• AI/ML Intern @ GemEdge
+• Building AI-powered applications
+• Exploring Agentic AI
+
+$ philosophy
+
+Build.
+Break.
+Learn.
+Repeat.
+
+$ fuel
+
+☕ Coffee
+```
+
+</td>
+
+<td align="center" width="40%">
+
+<img src="assets/gifs/typing.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+## 🚀 What I'm Building
+
+Right now I'm focused on building AI-powered systems that solve real-world problems.
+
+- 🤖 AI Compliance Engine
+- 📑 Tender Intelligence Platform
+- 🧠 Autonomous AI Workflows
+- 🌍 Open Source Contributions
+
+> _Always building. Always learning._
+
+
+## 🧪 Things I Love Building With
+
+<div align="center">
+
+<img src="assets/gifs/drstone.gif" width="260"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,django,python,typescript,postgres,mongodb,mysql,prisma,docker,aws,redis,git,github,vscode&perline=6"/>
+
+</div>
+
+
+## 🌱 Currently Exploring
+
+<table>
+<tr>
+
+<td width="60%">
+
+I'm currently diving deeper into:
+
+- ☁ AWS
+- 🐳 Docker
+- ⚡ Redis & Celery
+- 🏗 System Design
+- 🤖 Agentic AI
+
+Every project teaches me something new.
+
+</td>
+
+<td align="center" width="40%">
+
+<img src="assets/gifs/vinland.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+## 🎮 Beyond the Keyboard
+
+currently_watching:
+  - Welcome To NHK
+
+all_time_favorites:
+  - Ao Ashi
+  - Monster
+  - Odd Taxi
+
+football:
+  - Manchester United
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you ever want to talk about AI, open source, or recommend a great anime,
+
+I'd love to connect.
+
+<br><br>
+
+<a href="https://github.com/Anshuman-utd">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/anshuman-mehta-291a3b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:anshumanmehta11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:anshuman.mehta2024@nst.rishihood.edu.in">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://portfolio-six-wine-56.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+<a href="https://portfolio-six-wine-56.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
-</p>
 
----
+<br><br>
 
-# 🛠️ Tech Stack
+<img src="assets/gifs/luffy.gif" width="180"/>
 
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-
-
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-
-
-**Backend & Database**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
-
-**Data Science & AI**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-
-
-**AI / GenAI**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B00?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-FF4088?style=for-the-badge&logo=probot&logoColor=white" />
-</p>
-
-
-
-**Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Anshuman-utd&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anshuman-utd&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Anshuman-utd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-utd&theme=tokyo-night&hide_border=true" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=120&section=footer"/>
-</p>
+</div>
