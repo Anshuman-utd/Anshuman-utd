@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gifs/gojo.gif" width="780"/>
+<img src="assets/gifs/gojo.gif" width="760"/>
 
 <br><br>
 
@@ -8,20 +8,23 @@
 
 ### Building products that are useful, scalable, and a little bit fun.
 
-<p>
-I enjoy building AI-powered applications, experimenting with new ideas,
+<p align="center">
+I enjoy building AI-powered applications, experimenting with new ideas,<br>
 and somehow always ending up with one more side project than I planned.
 </p>
 
 </div>
 
+<br>
 
-## ✨ A Little About Me
+<h2 align="center">✨ A Little About Me</h2>
+
+<br>
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
 ```bash
 $ whoami
@@ -30,66 +33,82 @@ Anshuman Mehta
 
 $ role
 
-AI Engineer
-Full Stack Developer
+  AI Engineer
+  Full Stack Developer
 
 $ currently
 
-• AI/ML Intern @ GemEdge
-• Building AI-powered applications
-• Exploring Agentic AI
+  • AI/ML Intern @ GemEdge
+  • Building AI-powered applications
+  • Exploring Agentic AI
 
 $ philosophy
 
-Build.
-Break.
-Learn.
-Repeat.
-
+  Build.
+  Break.
+  Learn.
+  Repeat.
 ```
 
 </td>
 
-<td align="center" width="40%">
+<td width="45%" align="center">
 
-<img src="assets/gifs/typing.gif" width="280"/>
+<img src="assets/gifs/typing.gif" width="340"/>
 
 </td>
 
 </tr>
 </table>
 
-## 🚀 What I'm Building
+<br>
 
+<h2 align="center">🚀 What I'm Building</h2>
+
+<p align="center">
 Right now I'm focused on building AI-powered systems that solve real-world problems.
-
-- 🤖 AI Compliance Engine
-- 📑 Tender Intelligence Platform
-- 🧠 Autonomous AI Workflows
-- 🌍 Open Source Contributions
-
-> _Always building. Always learning._
-
-
-## 🧪 Things I Love Building With
+</p>
 
 <div align="center">
 
-<img src="assets/gifs/drstone.gif" width="260"/>
+🤖 AI Compliance Engine
 
-<br><br>
+📑 Tender Intelligence Platform
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,django,python,typescript,postgres,mongodb,mysql,prisma,docker,aws,redis,git,github,vscode&perline=6"/>
+🧠 Autonomous AI Workflows
+
+🌍 Open Source Contributions
 
 </div>
 
+<p align="center">
+<i>Always building. Always learning.</i>
+</p>
 
-## 🌱 Currently Exploring
+<br>
+
+<h2 align="center">🧪 Things I Love Building With</h2>
+
+<div align="center">
+
+<img src="assets/gifs/drstone.gif" width="320"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,django,python,typescript,postgres,mongodb,mysql,prisma,docker,aws,redis,git,github,vscode&perline=6" />
+
+</div>
+
+<br>
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<br>
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
 I'm currently diving deeper into:
 
@@ -99,40 +118,52 @@ I'm currently diving deeper into:
 - 🏗 System Design
 - 🤖 Agentic AI
 
-Every project teaches me something new.
+<p><i>Every project teaches me something new.</i></p>
 
 </td>
 
-<td align="center" width="40%">
+<td width="45%" align="center">
 
-<img src="assets/gifs/vinland.gif" width="280"/>
+<img src="assets/gifs/vinland.gif" width="340"/>
 
 </td>
 
 </tr>
 </table>
 
-## 🎮 Beyond the Keyboard
+<br>
+
+<h2 align="center">🎮 Beyond the Keyboard</h2>
+
+<br>
 
 ```yaml
-📺 Currently Watching:
-  - Welcome to the NHK
+📺 Currently Watching
+  • Welcome to the NHK
 
-❤️ Favorites:
-  - Monster
-  - Odd Taxi
-  - Ao Ashi
+❤️ Favorites
+  • Monster
+  • Odd Taxi
+  • Ao Ashi
 
-⚽ Football:
-  - Manchester United
+⚽ Football
+  • Manchester United
+
+☕ Fuel
+  • Coffee
+
+🎧 Coding Playlist
+  • Lo-fi
+  • Anime OSTs
 ```
 
-## 🤝 Let's Connect
+<br>
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
 If you ever want to talk about AI, open source, or recommend a great anime,
-
 I'd love to connect.
 
 <br><br>
@@ -141,20 +172,30 @@ I'd love to connect.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anshuman-mehta-291a3b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/anshuman-mehta-291a3b324">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:anshuman.mehta2024@nst.rishihood.edu.in">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://portfolio-six-wine-56.vercel.app">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
+<br><br><br>
+
+<img src="assets/gifs/luffy.gif" width="240"/>
+
 <br><br>
 
-<img src="assets/gifs/luffy.gif" width="180"/>
+<i>Thanks for stopping by! 👋</i>
 
 </div>
