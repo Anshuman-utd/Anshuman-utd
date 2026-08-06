@@ -236,13 +236,7 @@ production-ready AI applications.
 
 ### ☕ Fuel
 
-- Coffee
 - Late-night coding
-
-### 🎧 Coding Playlist
-
-- Lo-fi
-- Anime OSTs
 
 </td>
 
